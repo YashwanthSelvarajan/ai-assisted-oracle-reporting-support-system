@@ -1,0 +1,6 @@
+request_id,department,request_type,priority,status,cycle_time_days,sla_status,monthly_cost,estimated_savings
+101,Operations,Reporting Automation,HIGH,COMPLETED,3,WITHIN_SLA,1200,4500
+102,Finance,Approval Workflow,MEDIUM,IN_REVIEW,6,BREACHED,900,2500
+103,IT,Data Validation,HIGH,COMPLETED,4,WITHIN_SLA,1500,5200
+104,Operations,Dashboard Enhancement,LOW,SUBMITTED,1,PENDING,700,1500
+105,Finance,Reporting Automation,CRITICAL,IN_REVIEW,8,BREACHED,2000,8000
